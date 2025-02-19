@@ -1,0 +1,7 @@
+consignee_first_name,consignee_last_name,consignee_email,consignee_address,consignee_phone,consignee_country,consignee_state,consignee_city,consignment_order_id,consignment_order_type,consignment_cod_price,vendor_weight_id,consignment_packaging,consignment_pieces,consignment_description,consignment_origin_city,pickup_location
+MRS,ZAHID,MARYAMZAHID123@HOTMAIL.COM,"187/E BLOCK EME SOCIETY, DHA MULTAN ROAD ",3234243815,166,2728,31456,SF-1846,1,9450,10,1,1,GL-01 STITCHED (L),31456,5
+ANAM,SAEED,ANAMSHAHROZE@GMAIL.COM,"443NSTREET 30A, SECTOR B, ASKARI 11, LAHORE",3200566099,166,2728,31456,SF-2246,1,5950,1,1,1,GL-10,31456,5
+KHADIJA,ASIM,RAMEEN.ASIM64@GMAIL.COM,"7/4 OLD RACE COURSE ROAD NEAR ASKARI BANK, LAHORE",3231481976,166,2728,31456,SF-2183,1,9950,1,1,1,EL21-04A,31456,5
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

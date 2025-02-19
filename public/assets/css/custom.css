@@ -1,0 +1,16 @@
+
+/*bold total estimate staff number and vendor list*/
+.estimateNumber{
+    font-size: 30px;
+    font-weight: bold;    
+}
+
+/*Staff Heading in estimate staff numbering*/
+.staffHeading {
+    font-size: 12px;
+}
+
+/*Card Header btn*/
+.cardHeaderBtn {
+    padding: .375rem .75rem;
+}

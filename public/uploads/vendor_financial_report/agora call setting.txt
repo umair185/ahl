@@ -1,0 +1,22 @@
+Agora
+*classes folder*
+	AccessToken
+	RtcTokenBuilder
+*Event*
+	MakeAgoraCall
+*Helper*
+	MimeReaderHelper
+*Controller*
+	AgoraVideo
+	*APi*
+		Voice
+*Layouts*
+	app
+*project*
+	index
+*route Api*
+	api
+*route channels*
+	channels
+*route web*
+	web
